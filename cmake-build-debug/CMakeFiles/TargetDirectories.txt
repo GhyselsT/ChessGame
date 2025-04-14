@@ -1,0 +1,5 @@
+R:/UA/SCHOOL/Schaaktaak/cmake-build-debug/CMakeFiles/schaken.dir
+R:/UA/SCHOOL/Schaaktaak/cmake-build-debug/CMakeFiles/edit_cache.dir
+R:/UA/SCHOOL/Schaaktaak/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+R:/UA/SCHOOL/Schaaktaak/cmake-build-debug/CMakeFiles/schaken_autogen_timestamp_deps.dir
+R:/UA/SCHOOL/Schaaktaak/cmake-build-debug/CMakeFiles/schaken_autogen.dir
